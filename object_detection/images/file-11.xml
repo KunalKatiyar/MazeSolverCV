@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mazeImages</folder>
+	<filename>file-11.jpg</filename>
+	<path>C:\Users\Kunal\Desktop\mazeImages\file-11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2380</width>
+		<height>2792</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maze</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>195</ymin>
+			<xmax>2191</xmax>
+			<ymax>2607</ymax>
+		</bndbox>
+	</object>
+</annotation>

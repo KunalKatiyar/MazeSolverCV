@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>file-246.jpeg</filename>
+	<path>D:\Dektop\GitProjects\MazeSolverCV\images\file-246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>maze</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>199</ymin>
+			<xmax>658</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
